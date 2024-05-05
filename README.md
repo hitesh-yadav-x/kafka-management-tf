@@ -6,3 +6,6 @@ terraform import -var-file="config/dev/application.tfvars" 'module.dev_env.confl
 ```
 
 ![alt text](docs/images/env-import-image.png)
+
+##### Using import script (sample only)
+![alt text](docs/images/env-import-script.png)
